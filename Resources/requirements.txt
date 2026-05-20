@@ -1,0 +1,9 @@
+opensearch-py
+requests
+httpx
+mcp
+mangum
+psycopg[binary]
+strands-agents
+anthropic
+openai
