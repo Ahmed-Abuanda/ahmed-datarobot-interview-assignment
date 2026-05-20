@@ -46,3 +46,6 @@ Resources/lambda_libraries/
 .idea/
 *.swp
 *.swo
+
+# ---- Claude Code local settings ----
+.claude/
